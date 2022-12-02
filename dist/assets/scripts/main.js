@@ -1,0 +1,1 @@
+"use strict";$(o=>{const c=o("html, body");o("#scroll_top").on("click",()=>(c.animate({scrollTop:0},600),!1))});
